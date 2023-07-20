@@ -48,7 +48,7 @@ const Register = () => {
                   </FormGroup>
                   <Button className='btn secondary_btn auth_btn' type='submit'>Creacte Account </Button>
                 </Form>
-                <p>Don't have an account? <Link to='/register'>Login</Link></p>
+                <p>Don't have an account? <Link to='/login'>Login</Link></p>
               </div>
             </div>
           </Col>
