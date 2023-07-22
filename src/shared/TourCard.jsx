@@ -22,7 +22,11 @@ const TourCard = ({tour}) => {
         <i class="ri-map-pin-line"></i>{city}
        </span>
        <span className='tour__rating d-flex align-items-center gap-1'>
+<<<<<<< HEAD
         <i class="ri-star-fill"></i>{avgRating === 0 ? null:avgRating}
+=======
+        <i class="ri-star-s-fill"></i>{avgRating === 0 ? null:avgRating}
+>>>>>>> 085376edc (lelo)
         {totalRating === 0 ? ('Not rated') : (<span>({reviews.length})</span>) }
         
        </span>
@@ -30,7 +34,11 @@ const TourCard = ({tour}) => {
       </div>
 
       <h5 className='tour__title'>
+<<<<<<< HEAD
         <Link to={'/tours/${id}'}>{title}</Link>
+=======
+        <Link to={`/tours/${id}`}>{title}</Link>
+>>>>>>> 085376edc (lelo)
       </h5>
 
       <div className="card__bottom d-flex align-items-center justify-content-between mt-3">
@@ -39,7 +47,11 @@ const TourCard = ({tour}) => {
          </h5>
 
          <button className='btn booking__btn'>
+<<<<<<< HEAD
           <Link to={'/tours/${id}'}>Book Now</Link>
+=======
+          <Link to={`/tours/${id}`}>Book Now</Link>
+>>>>>>> 085376edc (lelo)
          </button>
       </div>
 

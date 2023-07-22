@@ -12,6 +12,10 @@ const tours = [
     title: "Westminister Bridge",
     city: "London",
     distance: 300,
+<<<<<<< HEAD
+=======
+    address: "somewhere",
+>>>>>>> 085376edc (lelo)
     price: 99,
     maxGroupSize: 10,
     desc: "this is the description",
@@ -34,6 +38,10 @@ const tours = [
     title: "Bali, Indonesia",
     city: "Indonesia",
     distance: 400,
+<<<<<<< HEAD
+=======
+    address: "somewhere",
+>>>>>>> 085376edc (lelo)
     price: 99,
     maxGroupSize: 8,
     desc: "this is the description",
@@ -52,6 +60,10 @@ const tours = [
     title: "Snowy Mountains, Thailand",
     city: "Thailand",
     distance: 500,
+<<<<<<< HEAD
+=======
+    address: "somewhere",
+>>>>>>> 085376edc (lelo)
     price: 99,
     maxGroupSize: 8,
     desc: "this is the description",
@@ -70,6 +82,10 @@ const tours = [
     title: "Beautiful Sunrise, Thailand",
     city: "Thailand",
     distance: 500,
+<<<<<<< HEAD
+=======
+    address: "somewhere",
+>>>>>>> 085376edc (lelo)
     price: 99,
     maxGroupSize: 8,
     desc: "this is the description",
@@ -88,6 +104,10 @@ const tours = [
     title: "Nusa Pendia Bali, Indonesia",
     city: "Indonesia",
     distance: 500,
+<<<<<<< HEAD
+=======
+    address: "somewhere",
+>>>>>>> 085376edc (lelo)
     price: 99,
     maxGroupSize: 8,
     desc: "this is the description",
@@ -106,6 +126,10 @@ const tours = [
     title: "Cherry Blossoms Spring",
     city: "Japan",
     distance: 500,
+<<<<<<< HEAD
+=======
+    address: "somewhere",
+>>>>>>> 085376edc (lelo)
     price: 99,
     maxGroupSize: 8,
     desc: "this is the description",
@@ -124,6 +148,10 @@ const tours = [
     title: "Holmen Lofoten",
     city: "France",
     distance: 500,
+<<<<<<< HEAD
+=======
+    address: "somewhere",
+>>>>>>> 085376edc (lelo)
     price: 99,
     maxGroupSize: 8,
     desc: "this is the description",
@@ -137,6 +165,10 @@ const tours = [
     title: "Snowy Mountains, Thailand",
     city: "Thailand",
     distance: 500,
+<<<<<<< HEAD
+=======
+    address: "somewhere",
+>>>>>>> 085376edc (lelo)
     price: 99,
     maxGroupSize: 8,
     desc: "this is the description",
