@@ -3,6 +3,7 @@ import { Container, Row, Button} from 'reactstrap'
 import logo from '../../assets/image/travel tales.jpg'
 import { NavLink, Link, useNavigate } from 'react-router-dom'
 import './header.css'
+import { AuthContext } from '../../context/AuthContext';
 
  const nav__links=[
   {
